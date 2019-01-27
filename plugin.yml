@@ -1,0 +1,7 @@
+main: tl.ox.main.Main
+name: OX
+author: Toastlawine
+version: 1.0
+commands:
+  ox:
+  start:
